@@ -1,7 +1,8 @@
 # My script in roblox 
-Hi I create WertyScrpt.
+Hi I create WertyScrpt and QwertyHub
 
-`loadstring(game:HttpGet("https://pastebin.com/raw/RTcwKWCZ"))()`
+```loadstring(game:HttpGet("https://pastebin.com/raw/RTcwKWCZ"))()```
+```loadstring(game:HttpGet("https://pastebin.com/raw/VtEkWhf3"))()```
 
 DISCORD - !Anonymous#3816
 
