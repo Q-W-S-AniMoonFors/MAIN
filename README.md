@@ -1,10 +1,11 @@
 # My script in roblox 
 Hi I create WertyScrpt and QwertyHub
-WertyScript
+
+WertyScript:
 
     loadstring(game:HttpGet("https://pastebin.com/raw/RTcwKWCZ"))()
     
-QwertyHub
+QwertyHub:
 
     loadstring(game:HttpGet("https://pastebin.com/raw/VtEkWhf3"))()
 
