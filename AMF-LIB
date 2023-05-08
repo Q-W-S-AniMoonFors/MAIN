@@ -3265,7 +3265,7 @@ function UILibrary.new(gameName, userId, rank)
     local Drag = Draggable.Drag(window.MainUI, Frame)
 
     --// Customize the GUI
-    window.Watermark.Text = ("Ani-Moon-Fors | ".._G.versionAMF.." | ".._G.userAMF.." "):format(userId, gameName)
+    window.Watermark.Text = ("Ani-Moon-Fors | ".._G.versionAMF.." | ".._G.userAMF.." ")
     local userinfo = window.MainUI.Sidebar.ContentHolder.UserInfo.Content
     userinfo.Rank.Text = rank
     userinfo.Title.Text = userId
