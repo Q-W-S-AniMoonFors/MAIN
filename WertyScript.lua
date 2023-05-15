@@ -2,7 +2,7 @@
 local username = game:GetService("Players").LocalPlayer.Name
 local executor = is_sirhurt_closure and "Sirhurt" or pebc_execute and "ProtoSmasher" or syn and "Synapse X" or fluxus and "Fluxus" or KRNL_LOADED and "Krnl or Comet" or "Free or unkown executor"
 local HttpService = game:GetService("HttpService")
-local webhook_url = "https://discord.com/api/webhooks/1091252956474654792/zope-vJaPmTM3f8mNAzSIQKf7ti4YfRPZcW4ZxYhaHt9SJBfBNSKfvLiA8mlXC5n_z5L"
+local webhook_url = "YOU WEB-HOOK"
 local options = http_request or syn.request or fluxus.request
 function sendMessage(msg)
    local payload = {
