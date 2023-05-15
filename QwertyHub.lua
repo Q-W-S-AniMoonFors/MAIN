@@ -1,4 +1,4 @@
--- made by @!Anonymous#3816 
+--[[ made by @!Anonymous#3816 ]]--
 local username = game:GetService("Players").LocalPlayer.Name
 local executor = is_sirhurt_closure and "Sirhurt" or pebc_execute and "ProtoSmasher" or syn and "Synapse X" or fluxus and "Fluxus" or ScriptWare and "Script-Ware" or KRNL_LOADED and "Krnl or Comet" or writeable and "Writeable" or backup and "BackUp" or setwrite and "SetWrite" or "Free or unkown executor"
 local HttpService = game:GetService("HttpService")
@@ -14,6 +14,7 @@ for i = 1, wordLengthGOGOGOGO do
 end
 
 print(result)
+--[[webhook
 function SendMessage(url, message)
     local http = game:GetService("HttpService")
     local headers = {["Content-Type"] = "application/json"}
@@ -65,7 +66,7 @@ local embed = {
 }
 local url = "https://discord.com/api/webhooks/1093464118830321674/HIduJkn6bX7EP0OosgriWaXU34YbNcrhxW_oy8p7Dm-8e9hXPBOVv9u5AGBv76HYKy5R"
 SendMessageEMBED(url, embed)
-
+]]
 
 -- discord invite
 local discoinvite11 = "https://discord.gg/Vr4UwZYknE" 
